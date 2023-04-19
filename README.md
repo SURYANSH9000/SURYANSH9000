@@ -8,7 +8,33 @@ In addition to this, I enjoy resolving issues requiring algorithmic abilities an
 - 💬 Ask me about Problem Solving & DSA 
 - 📫 How to reach me: [My Portfolio](https://suryansh9000.github.io/SG_Portfolio/) 
 
-# 💻 
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-C++%20|%20C%20|%20Django%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20Bootstrap%20|%20Python%20|%20React%20JS%20|%20MySQL%20|%20Flask%20|%20MongoDB%20|%20Node%20JS%20|%20Keras%20|%20NumPy%20|%20Pandas%20|%20OpenCV%20|%20TensorFlow%20|%20Git%20|%20Latex%20|%20Solidworks%20|%20Vscode%20|%20Pycharm%20|%20Google%20Colab%20Notebook%20|%20Windows%20|%20Linux%20|%20Mac%20OS-blue)](https://github.com/SURYANSH9000)
+# 💻 Tech Stack
 
-**Tech Stack**: C++, C, Django, HTML, CSS, JavaScript, Bootstrap, Python, React JS, MySQL, Flask, MongoDB, Node JS, Keras, NumPy, Pandas, OpenCV, TensorFlow, Git, Latex, Solidworks, Vscode, Pycharm, Google Colab Notebook, Windows, Linux, Mac OS
+[![C++](https://img.shields.io/badge/-C++-blue)](#)
+[![C](https://img.shields.io/badge/-C-blue)](#)
+[![Django](https://img.shields.io/badge/-Django-black)](#)
+[![HTML](https://img.shields.io/badge/-HTML-orange)](#)
+[![CSS](https://img.shields.io/badge/-CSS-blue)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](#)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)](#)
+[![Python](https://img.shields.io/badge/-Python-yellow)](#)
+[![React JS](https://img.shields.io/badge/-React%20JS-blue)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-blue)](#)
+[![Flask](https://img.shields.io/badge/-Flask-blue)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-blue)](#)
+[![Node JS](https://img.shields.io/badge/-Node%20JS-blue)](#)
+[![Keras](https://img.shields.io/badge/-Keras-blue)](#)
+[![NumPy](https://img.shields.io/badge/-NumPy-blue)](#)
+[![Pandas](https://img.shields.io/badge/-Pandas-blue)](#)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-blue)](#)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue)](#)
+[![Git](https://img.shields.io/badge/-Git-blue)](#)
+[![Latex](https://img.shields.io/badge/-Latex-blue)](#)
+[![Solidworks](https://img.shields.io/badge/-Solidworks-blue)](#)
+[![Vscode](https://img.shields.io/badge/-Vscode-blue)](#)
+[![Pycharm](https://img.shields.io/badge/-Pycharm-blue)](#)
+[![Google Colab Notebook](https://img.shields.io/badge/-Google%20Colab%20Notebook-blue)](#)
+[![Windows](https://img.shields.io/badge/-Windows-blue)](#)
+[![Linux](https://img.shields.io/badge/-Linux-blue)](#)
+[![Mac OS](https://img.shields.io/badge/-Mac%20OS-blue)](#)
+
