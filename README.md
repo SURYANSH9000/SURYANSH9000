@@ -38,5 +38,5 @@ In addition to this, I enjoy resolving issues requiring algorithmic abilities an
 [![Linux](https://img.shields.io/badge/-Linux-red)](#)
 [![Mac OS](https://img.shields.io/badge/-Mac%20OS-lightgrey)](#)
 
-[![Suryansh GitHub stats](https://github-readme-stats.vercel.app/api?username=SURYANSH9000)](https://github.com/SURYANSH9000/github-readme-stats)
+[![Suryansh GitHub stats](https://github-readme-stats.vercel.app/api?username=SURYANSH9000)](https://github.com/anuraghazra/github-readme-stats)
 
