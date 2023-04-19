@@ -8,6 +8,5 @@ In addition to this, I enjoy resolving issues requiring algorithmic abilities an
 - 💬 Ask me about Problem Solving & DSA 
 - 📫 How to reach me: [My Portfolio](https://suryansh9000.github.io/SG_Portfolio/) 
 
-# 💻 Tech Stack
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-C%2B%2B%20%7C%20C%20%7C%20Django%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Bootstrap%20%7C%20Python%20%7C%20React%20JS%20%7C%20MySQL%20%7C%20Flask%20%7C%20MongoDB%20%7C%20Node%20JS%20%7C%20Keras%20%7C%20NumPy%20%7C%20Pandas%20%7C%20OpenCV%20%7C%20TensorFlow%20%7C%20Git%20%7C%20LaTeX%20%7C%20SolidWorks%20%7C%20VSCode%20%7C%20PyCharm%20%7C%20Google%20Colab%20Notebook%20%7C%20Windows%20%7C%20Linux%20%7C%20macOS-blue)](https://github.com/SURYANSH9000)
-
+# 💻 
+[![Tech Stack](https://img.shields.io/badge/Tech_Stack-C++%20|%20C%20|%20Django%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20Bootstrap%20|%20Python%20|%20React%20JS%20|%20MySQL%20|%20Flask%20|%20MongoDB%20|%20Node%20JS%20|%20Keras%20|%20NumPy%20|%20Pandas%20|%20OpenCV%20|%20TensorFlow%20|%20Git%20|%20Latex%20|%20Solidworks%20|%20Vscode%20|%20Pycharm%20|%20Google%20Colab%20Notebook%20|%20Windows%20|%20Linux%20|%20Mac%20OS-blue)]([https://example.com](https://github.com/SURYANSH9000))
