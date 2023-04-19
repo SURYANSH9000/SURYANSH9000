@@ -9,5 +9,4 @@ In addition to this, I enjoy resolving issues requiring algorithmic abilities an
 - 📫 How to reach me: [My Portfolio](https://suryansh9000.github.io/SG_Portfolio/) 
 
 # 💻 Tech Stack
-C++ | C | Django | HTML | CSS | JavaScript | Bootstrap | Python | React JS | MySQL | Flask | MongoDB | Node JS | Keras | NumPy | Pandas | OpenCV | TensorFlow | Git | Latex | Solidworks | Vscode | Pycharm | Google Colab Notebook | Windows | Linux | Mac OS
-C++ | C | Django | HTML | CSS | JavaScript | Bootstrap | Python | React JS | MySQL | Flask | MongoDB | Node JS | Keras | NumPy | Pandas | OpenCV | TensorFlow | Git | Latex | Solidworks | Vscode | Pycharm | Google Colab Notebook | Windows | Linux | Mac OS
+https://img.shields.io/static/v1?label=<Tech Stack>&message=<C++ | C | Django | HTML | CSS | JavaScript | Bootstrap | Python | React JS | MySQL | Flask | MongoDB | Node JS | Keras | NumPy | Pandas | OpenCV | TensorFlow | Git | Latex | Solidworks | Vscode | Pycharm | Google Colab Notebook | Windows | Linux | Mac OS>&color=<blue>
