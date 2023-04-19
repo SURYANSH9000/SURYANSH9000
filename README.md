@@ -6,4 +6,4 @@ In addition to this, I enjoy resolving issues requiring algorithmic abilities an
 - 🔭 I’m currently working in Software Development sector
 - 🌱 I’m currently learning React JS, MongoDB, Node.js, Django, DSA
 - 💬 Ask me about Problem Solving & DSA 
-- 📫 How to reach me: Website(https://suryansh9000.github.io/SG_Portfolio/) 
+- 📫 How to reach me: Website [https://suryansh9000.github.io/SG_Portfolio/]
