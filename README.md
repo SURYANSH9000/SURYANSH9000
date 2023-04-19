@@ -8,5 +8,6 @@ In addition to this, I enjoy resolving issues requiring algorithmic abilities an
 - 💬 Ask me about Problem Solving & DSA 
 - 📫 How to reach me: [My Portfolio](https://suryansh9000.github.io/SG_Portfolio/) 
 
-# 💻 
-https://img.shields.io/badge/Tech%20Stack-C%2B%2B%20%7C%20C%20%7C%20Django%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Bootstrap%20%7C%20Python%20%7C%20React%20JS%20%7C%20MySQL%20%7C%20Flask%20%7C%20MongoDB%20%7C%20Node%20JS%20%7C%20Keras%20%7C%20NumPy%20%7C%20Pandas%20%7C%20OpenCV%20%7C%20TensorFlow%20%7C%20Git%20%7C%20Latex%20%7C%20Solidworks%20%7C%20Vscode%20%7C%20Pycharm%20%7C%20Google%20Colab%20Notebook%20%7C%20Windows%20%7C%20Linux%20%7C%20Mac%20OS-blue
+# 💻 Tech Stack
+C++ | C | Django | HTML | CSS | JavaScript | Bootstrap | Python | React JS | MySQL | Flask | MongoDB | Node JS | Keras | NumPy | Pandas | OpenCV | TensorFlow | Git | Latex | Solidworks | Vscode | Pycharm | Google Colab Notebook | Windows | Linux | Mac OS
+C++ | C | Django | HTML | CSS | JavaScript | Bootstrap | Python | React JS | MySQL | Flask | MongoDB | Node JS | Keras | NumPy | Pandas | OpenCV | TensorFlow | Git | Latex | Solidworks | Vscode | Pycharm | Google Colab Notebook | Windows | Linux | Mac OS
