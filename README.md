@@ -9,6 +9,6 @@ In addition to this, I enjoy resolving issues requiring algorithmic abilities an
 - 📫 How to reach me: [My Portfolio](https://suryansh9000.github.io/SG_Portfolio/) 
 
 # 💻 
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-C++%20|%20C%20|%20Django%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20Bootstrap%20|%20Python%20|%20React%20JS%20|%20MySQL%20|%20Flask%20|%20MongoDB%20|%20Node%20JS%20|%20Keras%20|%20NumPy%20|%20Pandas%20|%20OpenCV%20|%20TensorFlow%20|%20Git%20|%20Latex%20|%20Solidworks%20|%20Vscode%20|%20Pycharm%20|%20Google%20Colab%20Notebook%20|%20Windows%20|%20Linux%20|%20Mac%20OS-blue)](https://github.com/SURYANSH9000))
+[![Tech Stack](https://img.shields.io/badge/Tech_Stack-C++%20|%20C%20|%20Django%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20Bootstrap%20|%20Python%20|%20React%20JS%20|%20MySQL%20|%20Flask%20|%20MongoDB%20|%20Node%20JS%20|%20Keras%20|%20NumPy%20|%20Pandas%20|%20OpenCV%20|%20TensorFlow%20|%20Git%20|%20Latex%20|%20Solidworks%20|%20Vscode%20|%20Pycharm%20|%20Google%20Colab%20Notebook%20|%20Windows%20|%20Linux%20|%20Mac%20OS-blue)](https://github.com/SURYANSH9000)
 
 **Tech Stack**: C++, C, Django, HTML, CSS, JavaScript, Bootstrap, Python, React JS, MySQL, Flask, MongoDB, Node JS, Keras, NumPy, Pandas, OpenCV, TensorFlow, Git, Latex, Solidworks, Vscode, Pycharm, Google Colab Notebook, Windows, Linux, Mac OS
