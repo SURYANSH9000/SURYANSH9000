@@ -9,4 +9,5 @@ In addition to this, I enjoy resolving issues requiring algorithmic abilities an
 - 📫 How to reach me: [My Portfolio](https://suryansh9000.github.io/SG_Portfolio/) 
 
 # 💻 Tech Stack
-https://img.shields.io/endpoint?url=<https://img.shields.io/badge/Tech%20Stack-C%2B%2B%20%7C%20C%20%7C%20Django%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Bootstrap%20%7C%20Python%20%7C%20React%20JS%20%7C%20MySQL%20%7C%20Flask%20%7C%20MongoDB%20%7C%20Node%20JS%20%7C%20Keras%20%7C%20NumPy%20%7C%20Pandas%20%7C%20OpenCV%20%7C%20TensorFlow%20%7C%20Git%20%7C%20Latex%20%7C%20Solidworks%20%7C%20Vscode%20%7C%20Pycharm%20%7C%20Google%20Colab%20Notebook%20%7C%20Windows%20%7C%20Linux%20%7C%20Mac%20OS-blue>&style<STYLE>
+[![Tech Stack](https://img.shields.io/badge/Tech_Stack-C%2B%2B%20%7C%20C%20%7C%20Django%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Bootstrap%20%7C%20Python%20%7C%20React%20JS%20%7C%20MySQL%20%7C%20Flask%20%7C%20MongoDB%20%7C%20Node%20JS%20%7C%20Keras%20%7C%20NumPy%20%7C%20Pandas%20%7C%20OpenCV%20%7C%20TensorFlow%20%7C%20Git%20%7C%20LaTeX%20%7C%20SolidWorks%20%7C%20VSCode%20%7C%20PyCharm%20%7C%20Google%20Colab%20Notebook%20%7C%20Windows%20%7C%20Linux%20%7C%20macOS-blue)](https://github.com/SURYANSH9000)
+
